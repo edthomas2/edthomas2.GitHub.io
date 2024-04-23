@@ -1,12 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "GDP growth",
-    "subtitle": "Rate, % (chained prices) | Source: Insee through ECO API",
+    "text": "Real Government Investment",
+    "subtitle": "General Gov GFCF, £ million | Source: ONS through ECO API",
     "fontSize": "14",
     "subtitleFontSize": "12",
-    "color": "#2450ff",
-    "subtitleColor": "#2450ff"
+    "color": "#000000",
+    "subtitleColor": "#000000"
   },
   "height": "250",
   "width": "320",
@@ -15,14 +15,14 @@
     "fill": "#ffffff"
   },
   "data": {
-    "url": "https://api.economicsobservatory.com/fra/grow?vega",
+    "url": "https://api.economicsobservatory.com/gbr/ginv_r?vega",
     "format": {
       "type": "json"
     }
   },
   "mark": {
     "type": "line",
-    "color": "#2450ff",
+    "color": "#002aff",
     "strokeWidth": "2"
   },
   "encoding": {
