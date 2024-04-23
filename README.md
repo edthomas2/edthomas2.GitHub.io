@@ -1,1 +1,1 @@
-# edthomas2.GitHub.io
+# edthomas2.github.io
