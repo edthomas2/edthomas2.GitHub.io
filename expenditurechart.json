@@ -16,7 +16,7 @@
   "transform":[
     {"filter":"datum.TSE>800000"}
   ],
-  "mark": {"type": "bar", "color": "#86d0bb"},
+  "mark": {"type": "bar", "color": "0053be"},
   "encoding": {
     "x": {
       "field": "LA",
