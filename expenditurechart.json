@@ -1,0 +1,39 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Local Authority Expenditure",
+    "subtitle": "Total Service Expenditure, 2022/23",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/edthomas2/edthomas2.github.io/main/revenueoutturndata.csv"
+  },
+  "height": 600,
+  "width": 800,
+  "transform":[
+    {"filter":"datum.TSE>800000"}
+  ],
+  "mark": {"type": "bar", "color": "#86d0bb"},
+  "encoding": {
+    "x": {
+      "field": "LA",
+      "type": "nominal",
+      "sort": "-y",
+      "axis": {"title": null, "grid": false, "ticks": false, "labelAngle": 90}
+    },
+    "y": {
+      "field": "TSE",
+      "type": "quantitative",
+      "title": "",
+      "axis": {"grid": false}
+    },
+    "tooltip": [
+
+      {"field": "LA"},
+      {"field": "TSE"}
+    ]
+  }
+}
