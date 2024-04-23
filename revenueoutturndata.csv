@@ -1,0 +1,334 @@
+﻿LA,TSE
+Bath & North East Somerset,247170
+Bristol,775512
+South Gloucestershire,460657
+North Somerset,261577
+Luton,412539
+Bedford,305109
+Central Bedfordshire,413637
+Bracknell Forest,214864
+West Berkshire,287839
+Reading,274403
+Slough,[x]
+Windsor & Maidenhead,201166
+Wokingham,271016
+Milton Keynes,410406
+Buckinghamshire Council,874292
+Peterborough,301029
+Cambridgeshire,781585
+Cambridge,32061
+East Cambridgeshire,14892
+Fenland,16529
+South Cambridgeshire,[x]
+Huntingdonshire,25225
+Halton,230785
+Warrington,335057
+Cheshire East,563628
+Cheshire West & Chester,647774
+Hartlepool,171110
+Middlesbrough,252523
+Redcar & Cleveland,205043
+Stockton-on-Tees,274672
+Cornwall,809353
+Cumbria,819594
+Allerdale,15611
+Barrow-in-Furness,13223
+Carlisle,23304
+Copeland,13806
+Eden,[x]
+South Lakeland,[x]
+Derby,417494
+Derbyshire,1187534
+Amber Valley,14689
+Bolsover,10358
+Chesterfield,16314
+Derbyshire Dales,10815
+Erewash,15037
+High Peak,[x]
+North East Derbyshire,12754
+South Derbyshire,15857
+Plymouth,364469
+Torbay,[x]
+Devon,1171501
+East Devon,19344
+Exeter,16874
+Mid Devon,13209
+North Devon,8451
+South Hams,14190
+Teignbridge,15490
+Torridge,10441
+West Devon,8147
+Dorset UA,598218
+"Bournemouth, Christchurch & Poole",537911
+Darlington,156376
+Durham,925466
+Brighton & Hove,537083
+East Sussex,780475
+Eastbourne,26600
+Hastings,34939
+Lewes,23553
+Rother,16359
+Wealden,19270
+Southend-on-Sea,241106
+Thurrock,[x]
+Essex,1807762
+Basildon,32520
+Braintree,19566
+Brentwood,7901
+Castle Point,5477
+Chelmsford,29156
+Colchester,[x]
+Epping Forest,23346
+Harlow,13322
+Maldon,11433
+Rochford,9775
+Tendring,21533
+Uttlesford,18085
+Gloucestershire,891072
+Cheltenham,17061
+Cotswold,[x]
+Forest of Dean,11992
+Gloucester,10020
+Stroud,15724
+Tewkesbury,13615
+Portsmouth,308212
+Southampton,466135
+Hampshire,2142817
+Basingstoke & Deane,31514
+East Hampshire,18264
+Eastleigh,14122
+Fareham,16863
+Gosport,12514
+Hart,8990
+Havant,16418
+New Forest,20190
+Rushmoor,19829
+Test Valley,21359
+Winchester,19144
+Herefordshire,313143
+Worcestershire,772712
+Bromsgrove,13893
+Redditch,10798
+Worcester,16773
+Wychavon,14832
+Wyre Forest,10349
+Malvern Hills,8409
+Hertfordshire,1777950
+Broxbourne,12596
+Dacorum,24128
+East Hertfordshire,16115
+Hertsmere,14826
+North Hertfordshire,19118
+St Albans,17623
+Stevenage,11596
+Three Rivers,12528
+Watford,25329
+Welwyn Hatfield,18177
+East Riding of Yorkshire,567252
+Kingston upon Hull,407234
+North East Lincolnshire,236455
+North Lincolnshire,285040
+Isle of Wight,265624
+Medway Towns,386322
+Kent,2246629
+Ashford,27882
+Canterbury,18964
+Dartford,21449
+Dover,33947
+Gravesham,17243
+Maidstone,25763
+Sevenoaks,17305
+Folkestone & Hythe,22508
+Swale,28537
+Thanet,22111
+Tonbridge & Malling,18939
+Tunbridge Wells,13645
+Blackburn with Darwen,296606
+Blackpool,271392
+Lancashire,2157051
+Burnley,15942
+Chorley,14852
+Fylde,14117
+Hyndburn,14429
+Lancaster,25625
+Pendle,21300
+Preston,31601
+Ribble Valley,8577
+Rossendale,[x]
+South Ribble,18067
+West Lancashire,-9309
+Wyre,17714
+Leicester,707968
+Rutland,56204
+Leicestershire,749747
+Blaby,13056
+Charnwood,19836
+Harborough,13875
+Hinckley & Bosworth,13701
+Melton,10441
+North West Leicestershire,[x]
+Oadby & Wigston,7378
+Lincolnshire,917896
+Boston,12386
+East Lindsey,26958
+Lincoln,19819
+North Kesteven,14970
+South Holland,12298
+South Kesteven,15411
+West Lindsey,15069
+Norfolk,1240599
+Breckland,21471
+Broadland,14934
+Great Yarmouth,15439
+King's Lynn & West Norfolk,21983
+North Norfolk,19149
+Norwich,[x]
+South Norfolk,18203
+York,288284
+North Yorkshire,828347
+Craven,7737
+Hambleton,14808
+Richmondshire,9757
+Scarborough,19941
+Harrogate,25860
+Ryedale,11345
+Selby,20385
+North Northamptonshire,422891
+West Northamptonshire,556765
+Northumberland,491225
+Nottingham,550505
+Nottinghamshire,1069454
+Ashfield,18318
+Bassetlaw,14824
+Broxtowe,11847
+Gedling,13205
+Mansfield,13928
+Newark & Sherwood,19930
+Rushcliffe,15341
+Oxfordshire,915926
+Cherwell,28409
+Oxford,30850
+South Oxfordshire,18025
+Vale of White Horse,21743
+West Oxfordshire,16179
+Telford & Wrekin,326774
+Shropshire,455170
+Somerset,713727
+Mendip,20089
+Sedgemoor,27278
+South Somerset,39058
+Somerset West & Taunton,27400
+Stoke-on-Trent,418402
+Staffordshire,964241
+Cannock Chase,16706
+East Staffordshire,14871
+Lichfield,14364
+Newcastle-under-Lyme,21451
+South Staffordshire,16545
+Stafford,15349
+Staffordshire Moorlands,[x]
+Tamworth,12192
+Suffolk,932879
+Babergh,15199
+Ipswich,27842
+Mid Suffolk,[x]
+East Suffolk,47386
+West Suffolk,21986
+Surrey,1743634
+Elmbridge,25078
+Epsom & Ewell,16226
+Guildford,[x]
+Mole Valley,12922
+Reigate & Banstead,31313
+Runnymede,14858
+Spelthorne,21456
+Surrey Heath,11986
+Tandridge,10666
+Waverley,16205
+Woking,[x]
+Warwickshire,795605
+North Warwickshire,[x]
+Nuneaton & Bedworth,[x]
+Rugby,14760
+Stratford-on-Avon,20975
+Warwick,[x]
+West Sussex,1328052
+Adur,[x]
+Arun,26069
+Chichester,16505
+Crawley,19201
+Horsham,17841
+Mid Sussex,20429
+Worthing,[x]
+Swindon,299462
+Wiltshire,710696
+Isles of Scilly,7801
+Bolton,496523
+Bury,313676
+Manchester,1061071
+Oldham,435709
+Rochdale,436918
+Salford,454157
+Stockport,496451
+Tameside,400917
+Trafford,371156
+Wigan,588720
+Knowsley,353227
+Liverpool,1076725
+St Helens,344704
+Sefton,494970
+Wirral,588006
+Barnsley,355297
+Doncaster,447500
+Rotherham,385509
+Sheffield,914790
+Gateshead,349666
+Newcastle upon Tyne,483733
+North Tyneside,412773
+South Tyneside,304213
+Sunderland,424540
+Birmingham,[x]
+Coventry,584903
+Dudley,499079
+Sandwell,632168
+Solihull,351931
+Walsall,507251
+Wolverhampton,442589
+Bradford,909896
+Calderdale,330242
+Kirklees,728448
+Leeds,1339561
+Wakefield,531317
+City of London,269921
+Camden,559685
+Greenwich,597202
+Hackney,643712
+Hammersmith & Fulham,315601
+Islington,564977
+Kensington & Chelsea,318498
+Lambeth,675320
+Lewisham,682320
+Southwark,504177
+Tower Hamlets,775997
+Wandsworth,451588
+Westminster,386922
+Barking & Dagenham,513108
+Barnet,641203
+Bexley,289707
+Brent,622555
+Bromley,401999
+Croydon,576742
+Ealing,680479
+Enfield,578556
+Haringey,536936
+Harrow,362950
+Havering,385555
+Hillingdon,465044
+Hounslow,505313
+Kingston upon Thames,263070
+Merton,399105
+Newham,616694
+Redbridge,555943
+Richmond upon Thames,320157
+Sutton,334038
+Waltham Forest,491345
