@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "GDP growth",
+    "subtitle": "Rate, % (chained prices) | Source: Insee through ECO API",
+    "fontSize": "14",
+    "subtitleFontSize": "12",
+    "color": "#2450ff",
+    "subtitleColor": "#2450ff"
+  },
+  "height": "250",
+  "width": "320",
+  "background": "#ffffff",
+  "view": {
+    "fill": "#ffffff"
+  },
+  "data": {
+    "url": "https://api.economicsobservatory.com/fra/grow?vega",
+    "format": {
+      "type": "json"
+    }
+  },
+  "mark": {
+    "type": "line",
+    "color": "#2450ff",
+    "strokeWidth": "2"
+  },
+  "encoding": {
+    "x": {
+      "field": "date",
+      "type": "temporal",
+      "axis": {
+        "title": "",
+        "titleColor": "#122B39"
+      }
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "axis": {
+        "title": "",
+        "titleColor": "#122B39"
+      }
+    }
+  }
+}
